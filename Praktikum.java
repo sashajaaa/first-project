@@ -59,4 +59,4 @@ public class Praktikum {
         System.out.println("5 - Показать самую большую сумму расходов за неделю");
         System.out.println("0 - Выход");
     }
-}
+} //nnn
